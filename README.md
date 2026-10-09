@@ -6,6 +6,8 @@ This repository contains the manuscript and supplementary materials for the pape
 **“Reproducibility as a Structural Basis for Cognition:  
 From Physical Laws to Representational Algorithms.”**
 
+**Zenodo DOI:** [https://doi.org/10.5281/zenodo.23259601](https://doi.org/10.5281/zenodo.23259601)
+
 The work reconstructs foundational concepts in cognition, computation, and language —  
 **kichi/michi (known/unknown), algorithms, symbol manipulation, representational states** —  
 through a single unifying principle: **reproducibility**.
@@ -56,8 +58,9 @@ Together, these works form a unified framework for cognition grounded in **state
 
 ---
 
-## ✔ **Ready for Zenodo Integration**
+## ✔ **Zenodo Integration**
 
-Once the first release is created, Zenodo can automatically generate a DOI for archival and citation.
+This repository corresponds to the Zenodo record:  
+**[https://doi.org/10.5281/zenodo.23259601](https://doi.org/10.5281/zenodo.23259601)**
 
 ---
